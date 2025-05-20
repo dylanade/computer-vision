@@ -7,11 +7,17 @@ A collection of computer vision experiments, models, and applications implemente
 This repository contains projects that explore various computer vision tasks, including:
 
 - Image classification
-- Object detection
-- Semantic segmentation
 - Image preprocessing and augmentation
+- Layer Visualisation
 - Custom dataset handling
 - Model evaluation and visualization
+
+Currently working on:
+
+- Object detection
+- Image segmentation
+- Generative AI Computer Vision
+- Crowd Behaviour and Anomaly Detection
 
 Each subdirectory includes its own scripts, models, datasets, and documentation.
 
