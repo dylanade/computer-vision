@@ -12,7 +12,7 @@ This repository contains projects that explore various computer vision tasks, in
 - Custom dataset handling
 - Model evaluation and visualization
 
-Currently working on:
+Currently exploring and working on:
 
 - Object detection
 - Image segmentation
