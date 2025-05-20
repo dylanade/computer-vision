@@ -16,8 +16,9 @@ Currently working on:
 
 - Object detection
 - Image segmentation
-- Generative AI Computer Vision
-- Crowd Behaviour and Anomaly Detection
+- Generative AI computer vision
+- Crowd behaviour and anomaly detection
+- Teknomo-Fernandez algorithm
 
 Each subdirectory includes its own scripts, models, datasets, and documentation.
 
