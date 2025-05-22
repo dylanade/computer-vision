@@ -11,6 +11,7 @@ This repository contains projects that explore various computer vision tasks, in
 - Layer Visualisation
 - Custom dataset handling
 - Model evaluation and visualization
+- Vision Transformers for Lung Cancer Detection (SOTA)
 
 Currently exploring and working on:
 
