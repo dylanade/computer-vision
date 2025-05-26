@@ -1,4 +1,4 @@
-# Computer Vision Projects
+# Computer Vision
 
 A collection of computer vision experiments, models, and applications implemented in Python using popular libraries such as OpenCV, PyTorch, and TensorFlow.
 
@@ -13,17 +13,9 @@ This repository contains projects that explore various computer vision tasks, in
 - Model evaluation and visualization
 - Vision Transformers for Lung Cancer Detection (SOTA)
 
-Currently exploring and working on:
-
-- Object detection
-- Image segmentation
-- Generative AI computer vision
-- Crowd behaviour and anomaly detection
-- Teknomo-Fernandez algorithm
-
 Each subdirectory includes its own scripts, models, datasets, and documentation.
 
-## 🧰 Technologies Used
+## 🧰 Technologies used
 
 - Python 3.8+
 - OpenCV
